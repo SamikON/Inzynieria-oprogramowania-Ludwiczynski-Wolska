@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1623488287 source:c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\main.cpp
+	<iostream>
+	<chrono>
+	<ctime>
+	<stdlib.h>
+	"mysql_connection.h"
+	"cppconn/driver.h"
+	"cppconn/exception.h"
+	"cppconn/resultset.h"
+	"cppconn/statement.h"
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\mysql_connection.h
+	"cppconn/connection.h"
+	<memory>
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\connection.h
+	<map>
+	"build_config.h"
+	"warning.h"
+	"sqlstring.h"
+	"variant.h"
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\build_config.h
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\warning.h
+	<stdexcept>
+	<string>
+	<memory>
+	"sqlstring.h"
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\sqlstring.h
+	<string>
+	<algorithm>
+	"build_config.h"
+	<iostream>
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\variant.h
+	<string>
+	<map>
+	<list>
+	<algorithm>
+	<typeinfo>
+	"build_config.h"
+	"sqlstring.h"
+	"exception.h"
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\exception.h
+	"build_config.h"
+	<stdexcept>
+	<string>
+	<memory>
+
+1623271688 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\driver.h
+	"connection.h"
+	"build_config.h"
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\resultset.h
+	"config.h"
+	<list>
+	<map>
+	<iostream>
+	"sqlstring.h"
+	"resultset_metadata.h"
+
+1619525767 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\config.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\resultset_metadata.h
+	"sqlstring.h"
+	"datatype.h"
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\datatype.h
+
+1615825275 c:\users\mhwol\onedrive\pulpit\gabinetdentystyczny\cppconn\statement.h
+	"config.h"
+	"resultset.h"
+	<string>
+
